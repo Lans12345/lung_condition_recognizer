@@ -1,0 +1,4 @@
+0 Covid 19 Positive
+1 Lung Opacity Detected
+2 Normal Condition
+3 Infected with Pneumonia
